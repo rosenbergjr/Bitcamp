@@ -1,4 +1,4 @@
-BitCamp
+Bitcamp
 =======
 
-My BitCamp Repo!
+My Bitcamp Repo!
